@@ -1,0 +1,6 @@
+@PromptecWebAPI_HostAddress = http://localhost:5142
+
+GET {{PromptecWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
